@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/janinedo/Jans%20Test%20Project/_apis/build/status/janinedo.pipelines-java?branchName=master)](https://dev.azure.com/janinedo/Jans%20Test%20Project/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
